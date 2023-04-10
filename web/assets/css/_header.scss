@@ -1,0 +1,48 @@
+@import "variables";
+
+@mixin colorear($color){
+    background-color: $color;
+}
+@mixin letraNav($size){
+    font-size: $size;
+}
+
+.colorMenuHeader{
+    //border-top: 2px solid beige;
+    //background-color: $colorMenuFooter;
+    background-image: url("../pictures/footer_nature.jpg");
+    background-size: cover;
+    opacity: 0.8;
+    border-bottom: 3px solid rgba(246, 239, 239, 0.711);
+    //background-repeat: repeat;
+}
+#logo{
+    width: 105px;
+}
+
+.letraMenu{
+    @include letraNav($letraMenu);
+}
+
+#iniciarSesion__hover{
+    border: 5px outset  rgba(70, 133, 131, 0.788);
+    background-color: rgba(246, 239, 239, 0.711);
+    &:hover{
+        background-color: rgba(246, 239, 239, 0.711);
+        transform: translateX(-10px);
+    }
+    a{
+        &:hover{
+            color: rgb(169, 28, 224);
+            font-weight: 600;
+        }
+    }
+}
+
+
+.MenuUsuario__color{
+    background-image: url("../pictures/blue.jpg");
+    background-size: cover;
+    opacity: 0.9;
+    border-bottom: 3px solid rgba(246, 239, 239, 0.711);
+}
