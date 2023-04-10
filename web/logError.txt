@@ -1,0 +1,2 @@
+Call to undefined function verificarToken()0.52212500 1676045760
+Too few arguments to function Biblioteca::updateAccount(), 2 passed in E:\xampp\htdocs\DWES\ProyectoGerai\app\controlador\Controller.php on line 721 and exactly 7 expected0.82529700 1676481766
