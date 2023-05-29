@@ -1,0 +1,38 @@
+Too few arguments to function Biblioteca::crearMensajeNewsletter(), 3 passed in D:\xampp\htdocs\DWES\ProyectoGerai\app\controlador\Controller.php on line 517 and exactly 5 expected0.25321700 1675032808
+Too few arguments to function Biblioteca::crearMensajeNewsletter(), 3 passed in D:\xampp\htdocs\DWES\ProyectoGerai\app\controlador\Controller.php on line 517 and exactly 5 expected0.53769800 1675032819
+Call to undefined function allEmails()0.83184700 1675117607
+Call to undefined function allEmails()0.86063100 1675117777
+Call to undefined function allEmails()0.35328200 1675264513
+Call to undefined function allEmails()0.55418000 1675264525
+Call to undefined function allEmails()0.01651100 1675264621
+syntax error, unexpected '$valor' (T_VARIABLE), expecting ')'0.27597000 1675265597
+Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string0.54998900 1675794388
+Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string0.65531300 1675794415
+Object of class PHPMailer\PHPMailer\PHPMailer could not be converted to string0.23392600 1675794540
+syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)0.75855100 1675795420
+syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)0.65748400 1675795426
+syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)0.19268500 1675795457
+Too few arguments to function Biblioteca::seleccionarToken(), 0 passed in E:\xampp\htdocs\DWES\ProyectoGerai\app\controlador\Controller.php on line 224 and exactly 1 expected0.86306100 1675873860
+Call to undefined function verificarToken()0.02164100 1676045432
+Call to undefined function verificarToken()0.06674500 1676045436
+Call to undefined function verificarToken()0.04814100 1676045460
+Call to undefined function verificarToken()0.07222100 1676045478
+Call to undefined function verificarToken()0.92587400 1676045707
+Call to undefined method Biblioteca::inforPersonal()0.74228600 1676046952
+Call to undefined method Biblioteca::inforPersonal()0.01426900 1676047023
+Call to undefined method Biblioteca::inforPersonal()0.09449000 1676047188
+Call to undefined method Biblioteca::inforPersonal()0.89731600 1676047354
+Call to undefined method Biblioteca::inforPersonal()0.48752400 1676047356
+Call to undefined method Biblioteca::inforPersonal()0.04463300 1676047367
+Call to undefined method Biblioteca::inforPersonal()0.17296800 1676047371
+Call to undefined method Biblioteca::inforPersonal()0.86486500 1676047469
+Call to undefined method Biblioteca::inforPersonal()0.06247600 1676047473
+Call to undefined method Biblioteca::inforPersonal()0.08823300 1676050297
+Call to undefined method Biblioteca::inforPersonal()0.55412300 1676051334
+Call to undefined method Biblioteca::inforPersonal()0.60649500 1676051387
+Call to undefined method Biblioteca::inforPersonal()0.22879900 1676051523
+Call to undefined method Biblioteca::inforPersonal()0.00779500 1676051531
+Call to undefined method Biblioteca::inforPersonal()0.77338200 1676051538
+Call to undefined method Erutan::actualizarMensajeNewsletter()0.66357600 1684864591
+Too few arguments to function Erutan::actualizarUsuario(), 8 passed in D:\xampp\htdocs\DWES\theErutan\app\controller\Controller.php on line 661 and exactly 9 expected0.33897700 1685300687
+Too few arguments to function Erutan::actualizarUsuario(), 8 passed in D:\xampp\htdocs\DWES\theErutan\app\controller\Controller.php on line 661 and exactly 9 expected0.14805500 1685300699
